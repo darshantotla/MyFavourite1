@@ -1,0 +1,14 @@
+body{
+background-color: lime;
+font-family: fantasy;
+color: black;
+text-align: center;
+}
+#pickachu{
+width:450px;
+height: 450px;
+border-style: solid;
+border-color: red;
+border-width: medium;
+}
+
